@@ -30,5 +30,6 @@ The primary goal of this project is to:
 .
 ├── chatbot.py                  # Streamlit chatbot for transcript Q&A
 ├── chatbot_with_history.py     # Chatbot with session-based chat history
+├── RAG_v1.py                   # Chatbot with RAG to answer question with context
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
